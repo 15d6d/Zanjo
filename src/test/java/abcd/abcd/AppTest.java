@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-	// New Changes on 4.37 pm
+	//GIT LEARNING 
     /**
      * Create the test case
      *
