@@ -10,9 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-	//Narendra to Harsad
-	
-	//Updated on 4:17 pm
+	// New Changes on 4.37 pm
     /**
      * Create the test case
      *
